@@ -7,7 +7,7 @@ data:extend(
             name = "FD-category",
             order = "e",
             icon = "__Fortress-Defense-Mod__/graficos/technology/FD.png",
-            icon_size = 126,
+            icon_size = 128,
             icon_mipmaps = 2
         },
         {
